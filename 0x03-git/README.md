@@ -1,1 +1,1 @@
-task 1
+c/c_is_fun.c
